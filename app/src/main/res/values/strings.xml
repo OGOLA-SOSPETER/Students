@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Students</string>
+    <string name="alert_dialog_title">Settings in Progress. Check back  later...</string>
+</resources>
